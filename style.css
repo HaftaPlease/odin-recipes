@@ -1,0 +1,34 @@
+/* Add styles to the Recipes Page */
+
+* { 
+    background-color: hsla(300, 23%, 43%, 0.932);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#home {
+    font-size: 30px; 
+    list-style: none; 
+    text-align: center;
+}
+
+img {
+    display: block;
+    height: auto;
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.discriptor {
+    text-align: center;
+}
+
+.back-link {
+    display: block;
+    text-align : right;
+}
